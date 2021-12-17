@@ -1,0 +1,23 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+}
+
+.form {
+    max-width: 50%;
+    margin-top: 3rem;
+}
+
+button {
+    margin-top: 1.5rem;
+}
+
+textarea {
+    font-size: 1rem;
+    resize: none;
+    overflow: hidden;
+    outline: none;
+}
